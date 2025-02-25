@@ -1,5 +1,5 @@
 # Sketches
 
-![!!!Caption for image!!!](!!!filename.png!!!)
+![My sketch pipcture](sketch.jpeg)
 
-!!!Give context by explaining each sketch image!!!
+The sketch illustrates on shat the app will look like after developing
