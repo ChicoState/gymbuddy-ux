@@ -1,5 +1,5 @@
 # Sketches
 
-![My sketch pipcture](sketch.jpeg)
+![My sketch pipcture of GymBuddy](sketch.jpeg)
 
-The sketch illustrates on shat the app will look like after developing
+The sketch illustrates on what the app will look like after developing
