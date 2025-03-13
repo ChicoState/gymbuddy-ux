@@ -2,7 +2,6 @@
 
 ![](!!!image_filename.png!!!)
 
-!!!Persona!!!
 Persona: Alex
 Alex is a student at a local state college, studying civil engineering. He is 21 years old and lives with two roommates in an apartment. He likes to get his work quick done quickly, and because of this, he often has some free time. He likes to spend his free time at the gym with his roommates; however, his roommates lost interest in working out, and so he did, too. 
 
@@ -21,7 +20,6 @@ Priorities- Finding a reliable gym partner with similar routine and workout pref
 
 # Scenarios
 
-!!!Scenario!!!
 
 Scenario: John
 John is feeling stressed after a long sprint at work with his team and wants to get a nice workout at his local gym. He saw an ad about an app that claimed to be able to help find workout partners and decided to check it out. He downloads the app, signs up, and begins looking at people at his local gym of choice that are also looking for a workout partner. As he is browsing he sees a few others nearby that are looking to workout similar muscle groups and sends a message request.
