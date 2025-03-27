@@ -21,7 +21,7 @@ Gym Buddy is a platform that helps gym-goers find workout partners based on thei
 
 **Executive Summary**
 
-!!!Put phase I Executive Summary here!!!
+Competitive analysis revealed that overall, we don’t have too much competition. After analyzing existing gym-related applications it revealed a market with many offering similar features. However, a gap exists in providing cross-platform accessibility, as many are restricted to specific operating systems. Heuristic evaluations of leading competitors have identified notable weaknesses, particularly concerning user complexity. Developing user personas and scenarios has confirmed these findings, highlighting the following user desires: Simplicity- An intuitive, easy to navigate application that minimizes complexity. Accessibility- Cross platform usability, allowing access anytime and anywhere. Efficiency- Quick and straightforward process to find and connect with suitable workout partners. Design sketches and system diagrams have been developed to implement these insights, focusing on features such as enhanced error tolerance and a minimalist interface. These designs aim to create a user-friendly experience that aligns with the identified user needs
 
 [Full phase I report](phaseI/)
 
