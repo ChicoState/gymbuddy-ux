@@ -13,7 +13,7 @@ Design sketches and system diagrams have been developed to implement these insig
 ## UX Team Members
 
 Harrison Lloyd <br>
-Yash Madan 
+Yash Madan <br>
 Tanner Hart
 
 ## Design Artifacts
