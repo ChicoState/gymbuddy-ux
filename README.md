@@ -7,7 +7,7 @@ Gym Buddy is a platform that helps gym-goers find workout partners based on thei
 ## UX Team Members
 
 * **[Tanner Hart](https://usabilityengineering.github.io/portfolio-TannerHartt/)** - !!!List of Person A's primary contributions!!!
-* **[Harrison Lloyd](!!!URL to Person B's published UX journal!!!)** - !!!List of Person B's primary contributions!!!
+* **[Harrison Lloyd](https://usabilityengineering.github.io/portfolio-harryalloyd/)** - !!!List of Person B's primary contributions!!!
 * **[!!!Person C name!!!](!!!URL to Person C's published UX journal!!!)** - !!!List of Person C's primary contributions!!!
 
 # User-Centered Design Artifacts
