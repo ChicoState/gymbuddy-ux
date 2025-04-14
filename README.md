@@ -29,7 +29,21 @@ Competitive analysis revealed that overall, we don’t have too much competition
 
 **Executive Summary**
 
-!!!Put phase II Executive Summary here!!!
+As part of Phase II, our goal was to evaluate the usability of our GymBuddy wireframes by collecting real user feedback and identifying pain points in the app’s interaction design. Through cognitive walkthroughs and informal feedback from a broader audience, we uncovered unclear steps and confusion that prevented users from successfully completing key tasks. The findings from this research directly informed a series of design updates aimed at improving clarity, flow, and functionality across the app.
+
+Informal feedback revealed opportunities to improve user clarity and satisfaction with the following features:
+- Navigation Flow: Users found the layout of pages confusing, making it unclear how to progress through the app or return to previous steps.
+- Button Labeling: Ambiguously labeled buttons (e.g., "Get Started" vs. "Sign Up") created uncertainty about which action to tUsers were unable to confidently complete the task of finding a gym partner due to unclear navigation cues and lack of progress indicators.
+
+Cognitive walkthroughs identified usability issues and missing feedback elements that hindered task completion:
+- Users were unable to complete the task of finding a gym partner due to unclear navigation cues and lack of progress indicators.
+- Participants struggled to identify where certain actions (like editing preferences or viewing a profile) were located within the flow.
+
+Wireframes were updated to reflect major interaction and structural improvements:
+- Reordered screen flow to align with expected task order, starting with profile creation followed by partner search.
+- Clearer call to action buttons with distinct wording and visual hierarchy.
+- Feedback indicators such as success messages and button states to reinforce task completion.
+- Transition from mobile to web layout, allowing for more space and design flexibility in presenting key user functions.
 
 [Full phase II report](phaseII/)
 
