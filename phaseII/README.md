@@ -65,3 +65,14 @@ These changes aim to improve usability and align the application more closely wi
 ## Caveats
 
 !!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
+
+While this phase provided valuable insights that informed meaningful design improvements, there were several limitations to our research and testing approach. These caveats are important to acknowledge, as they may have influenced the depth and scope of our findings and the generalizability of our conclusions.
+
+- Limited Participant Pool: The cognitive walkthroughs involved a small number of participants, which may not represent the broader user base.​
+
+- Informal Feedback Constraints: Feedback from the SWE class was unstructured, potentially limiting the depth of insights.​
+
+- Design Transition Challenges: Shifting from a mobile-first to a web-based layout introduced complexities that required significant adjustments to the wireframes.
+
+- Time Constraints: Due to sprint timelines, we were unable to iterate as deeply as we would have liked before the next deliverable.
+
