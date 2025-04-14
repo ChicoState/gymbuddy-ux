@@ -43,14 +43,24 @@ Through the combination of our cognitive walkthroughs and informal feedback from
 - **Labeling and Feedback Gaps**: There was minimal indication of whether actions were successful or not, leaving users unsure if they had progressed.
 
 ### From SWE Class Feedback
-- Page Redundancy: Several students noted pages felt repetitive and could be simplified or combined.
-- Navigation Confusion: Icons and button placement were not well placed; users were not confident where buttons would take them.
-- Overall Support: Despite the issues, the overall concept was well-received, indicating a strong foundation for further development.
+- **Page Redundancy**: Several students noted pages felt repetitive and could be simplified or combined.
+- **Navigation Confusion**: Icons and button placement were not well placed; users were not confident where buttons would take them.
+- **Overall Support**: Despite the issues, the overall concept was well-received, indicating a strong foundation for further development.
 
 
 ## Conclusions
 
 !!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
+
+The key things we learned from this phase include the importance of clear and consistent labeling, logical navigation, and visible feedback in supporting user tasks. Based on our findings, we have made the following design changes:
+- Revised the onboarding flow to clarify the difference between "Sign Up" and "Get Started."
+- Reordered screens so that profile setup precedes match discovery, aligning with users’ expectations.
+- Adapted the layout for a web-based experience rather than a mobile-first interface.
+- Added feedback indicators (e.g., button states, success messages) to guide users through the interaction.
+- Transition to Web-Based Layout: Adapt the design from a mobile-first approach to a web-based interface to align with project developments.
+
+These changes aim to improve usability and align the application more closely with user needs and expectations.
+
 
 ## Caveats
 
