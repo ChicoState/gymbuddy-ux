@@ -37,7 +37,7 @@ Through the combination of our cognitive walkthroughs and informal feedback from
 ### From Cognitive Walkthroughs
 - **Task Completion Issues**: All 3 users struggled to successfully complete the "find a gym partner" scenario due to missing links or unclear navigation cues.
 - **Ambiguous Buttons**: Terms like “Get Started” and “Sign Up” caused confusion, as they were interpreted similarly.
-- **Flow Disruptions**: Users did not always know where they were in the process; the flow between creating a profile and filtering matches was not obvious or easy to navigate.
+- **Process Flow Errors**: Users did not always know where they were in the process; the flow between creating a profile and filtering matches was not obvious or easy to navigate.
 - **Labeling and Feedback Gaps**: There was minimal indication of whether actions were successful or not, leaving users unsure if they had progressed.
 
 ### From SWE Class Feedback
