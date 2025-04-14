@@ -58,7 +58,7 @@ These discoveries led to the following UX design recommendations:
 - Added feedback indicators (e.g., button states, success messages) to guide users through the interaction.
 - Transition to Web-Based Layout: Adapt the design from a mobile-first approach to a web-based interface to align with project developments.
 
-These recommendations directly shaped our next steps: we are currently implementing these changes into updated wireframes and will use them as the basis for future testing. The third and final sprints will focus on validating these updates through higher-fidelity prototypes and gathering feedback from a wider participant pool.
+These recommendations directly shaped our next steps: we are currently implementing these changes into updated wireframes and will use them as the basis for future testing. The third and final sprints will focus on validating these updates through higher fidelity prototypes and gathering feedback from a wider participant pool.
 
 
 ## Caveats
