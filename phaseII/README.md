@@ -13,13 +13,11 @@ To address these, we conducted cognitive walkthroughs and collected informal fee
 
 ## Methods
 
-!!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. Only include research methods in here, not design documents/techniques/artifacts !!!
-
 Throughout phase 2, we used two primary research methods – cognitive walkthroughs and informal feedback from the SWE team and other UX project members. Below, these methods and our findings are detailed.
 
 ### Cognitive Walkthroughs
-We conducted three structured walkthroughs using Phase I’s personas and scenarios. Participants reviewed a wireframe and were asked to complete the following core task:
 
+We conducted structured walkthroughs with three external participants from our UX class. Each participant was provided with a clickable wireframe and given a scenario based on our Phase I persona:
     “Find a compatible gym partner based on shared workout preferences.”
 
 At each step, participants answered the following standard cognitive walkthrough questions:
@@ -30,7 +28,7 @@ At each step, participants answered the following standard cognitive walkthrough
 These evaluations provided insights into the usability and clarity of our wireframes. We learned that we overlooked many steps in our process
 
 ### Informal Feedback from SWE Team Demo
-In collaboration with the SWE team, we presented our prototype to a class of approximately 35 students. They were asked: "Does our design make sense, and are there any features you think could be improved?" This feedback offered a broader perspective on user expectations and potential areas for enhancement.
+In collaboration with the SWE team, we presented our prototype to a class of approximately 30-35 students. They were asked: "Does our design make sense, and are there any features you think could be improved?" Responses were collected verbally and shared back with us via the SWE team. This method gave us broader insight into initial impressions, navigation expectations, and general app clarity from a larger group of non-UX users. It was useful for capturing spontaneous reactions and checking assumptions outside our core user group.
 
 ## Findings
 
@@ -50,16 +48,17 @@ Through the combination of our cognitive walkthroughs and informal feedback from
 
 ## Conclusions
 
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
+The methods used in this phase led to several critical insights that helped validate and improve our design direction. Our cognitive walkthroughs revealed that users had difficulty understanding the flow of the app, particularly when attempting to find a gym partner. Similarly, informal feedback from the SWE class highlighted that button labels and navigation paths were confusing or redundant.
 
-The key things we learned from this phase include the importance of clear and consistent labeling, logical navigation, and visible feedback in supporting user tasks. Based on our findings, we have made the following design changes:
+These discoveries led to the following UX design recommendations:
+
 - Revised the onboarding flow to clarify the difference between "Sign Up" and "Get Started."
 - Reordered screens so that profile setup precedes match discovery, aligning with users’ expectations.
 - Adapted the layout for a web-based experience rather than a mobile-first interface.
 - Added feedback indicators (e.g., button states, success messages) to guide users through the interaction.
 - Transition to Web-Based Layout: Adapt the design from a mobile-first approach to a web-based interface to align with project developments.
 
-These changes aim to improve usability and align the application more closely with user needs and expectations.
+These recommendations directly shaped our next steps: we are currently implementing these changes into updated wireframes and will use them as the basis for future testing. The third and final sprints will focus on validating these updates through higher-fidelity prototypes and gathering feedback from a wider participant pool.
 
 
 ## Caveats
