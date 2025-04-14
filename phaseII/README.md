@@ -34,7 +34,19 @@ In collaboration with the SWE team, we presented our prototype to a class of app
 
 ## Findings
 
-!!! For each research method, detail each of the findings to clarify new discoveries of users' needs !!!
+Through the combination of our cognitive walkthroughs and informal feedback from the Software Engineering class, we were able to identify several usability issues with our current GymBuddy wireframes. These findings helped validate previous assumptions from Phase I while also uncovering new problem areas in layout, interaction flow, and content clarity. Below is a breakdown of specific issues identified from each method.
+
+### From Cognitive Walkthroughs
+- **Task Completion Issues**: All 3 users struggled to successfully complete the "find a gym partner" scenario due to missing links or unclear navigation cues.
+- **Ambiguous Buttons**: Terms like “Get Started” and “Sign Up” caused confusion, as they were interpreted similarly.
+- **Flow Disruptions**: Users did not always know where they were in the process; the flow between creating a profile and filtering matches was not obvious or easy to navigate.
+- **Labeling and Feedback Gaps**: There was minimal indication of whether actions were successful or not, leaving users unsure if they had progressed.
+
+### From SWE Class Feedback
+- Page Redundancy: Several students noted pages felt repetitive and could be simplified or combined.
+- Navigation Confusion: Icons and button placement were not well placed; users were not confident where buttons would take them.
+- Overall Support: Despite the issues, the overall concept was well-received, indicating a strong foundation for further development.
+
 
 ## Conclusions
 
