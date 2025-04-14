@@ -29,6 +29,8 @@ At each step, participants answered the following standard cognitive walkthrough
 
 These evaluations provided insights into the usability and clarity of our wireframes. We learned that we overlooked many steps in our process
 
+### Informal Feedback from SWE Team Demo
+In collaboration with the SWE team, we presented our prototype to a class of approximately 35 students. They were asked: "Does our design make sense, and are there any features you think could be improved?" This feedback offered a broader perspective on user expectations and potential areas for enhancement.
 
 ## Findings
 
