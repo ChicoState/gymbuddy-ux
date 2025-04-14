@@ -1,5 +1,3 @@
-!!! NOTE: Delete all parts of this file surrounded by three exclamation marks (including the exclamation marks themselves) and replace them with the appropriate content -- they are only instructions and shouldn't be in your report!!!
-
 # GymBuddy
 
 Gym Buddy is a platform that helps gym-goers find workout partners based on their fitness goals and schedules. The project addresses a common challenge—many people struggle to stay motivated and consistent with their fitness routines due to a lack of accountability and social support. During this phase, we focused on analyzing competitors, created a structured layout of our design, and ran situational tests through personas and scenarios.
