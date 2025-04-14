@@ -13,7 +13,7 @@ To address these, we conducted cognitive walkthroughs and collected informal fee
 
 ## Methods
 
-Throughout phase 2, we used two primary research methods – cognitive walkthroughs and informal feedback from the SWE team and other UX project members. Below, these methods and our findings are detailed.
+Throughout phase 2, we used two primary research methods: cognitive walkthroughs and informal feedback from the SWE team and other UX project members. Below, these methods and our findings are detailed.
 
 ### Cognitive Walkthroughs
 
@@ -25,7 +25,7 @@ At each step, participants answered the following standard cognitive walkthrough
 1. Will the user know what to do at this step?​
 2. If the user does the right thing, will they know they did the right thing and are making progress toward their goal?
 
-These evaluations provided insights into the usability and clarity of our wireframes. We learned that we overlooked many steps in our process
+These evaluations provided insights into the usability and clarity of our wireframes. We learned that we had overlooked many steps in our process.
 
 ### Informal Feedback from SWE Team Demo
 In collaboration with the SWE team, we presented our prototype to a class of approximately 30-35 students. They were asked: "Does our design make sense, and are there any features you think could be improved?" Responses were collected verbally and shared back with us via the SWE team. This method gave us broader insight into initial impressions, navigation expectations, and general app clarity from a larger group of non-UX users. It was useful for capturing spontaneous reactions and checking assumptions outside our core user group.
@@ -41,7 +41,7 @@ Through the combination of our cognitive walkthroughs and informal feedback from
 - **Labeling and Feedback Gaps**: There was minimal indication of whether actions were successful or not, leaving users unsure if they had progressed.
 
 ### From SWE Class Feedback
-- **Page Redundancy**: Several students noted pages felt repetitive and could be simplified or combined.
+- **Page Redundancy**: Several students noted that pages felt repetitive and could be simplified or combined.
 - **Navigation Confusion**: Icons and button placement were not well placed; users were not confident where buttons would take them.
 - **Overall Support**: Despite the issues, the overall concept was well-received, indicating a strong foundation for further development.
 
