@@ -60,7 +60,7 @@ These discoveries led to the following UX design recommendations:
 
 These recommendations directly shaped our next steps: we are currently implementing these changes into updated wireframes and will use them as the basis for future testing. The third and final sprints will focus on validating these updates through higher fidelity prototypes and gathering feedback from a wider participant pool.
 
-**[Updated Wirreframes](https://chicostate.github.io/gymbuddy-ux/wireframes/)**
+**[Updated Wireframes](https://chicostate.github.io/gymbuddy-ux/wireframes/)**
 
 
 ## Caveats
