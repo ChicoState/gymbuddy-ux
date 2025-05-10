@@ -74,7 +74,7 @@ The usability test revealed critical insights that shaped final design recommend
 
 ### Validated Design Choices
 
-- The onboarding flow and workout filtering experience were well received and did not require major redesign.
+- The overall flow and design choices were well received after we made the major revisions in preparation for the walkthrough. 
 - Users expressed satisfaction with the visual layout and found the categories within the settings section intuitive.
 
 These findings will guide any future iterations of the GymBuddy app, with a continued focus on clarity, accessibility, and user confidence.
@@ -87,5 +87,6 @@ While the study yielded valuable insights, there are important limitations to co
 - **Demographic Narrowness:** Most users were college students; future tests should include working professionals and other potential gym-goers.
 - **Prototype Fidelity:** As this was a mid-fidelity wireframe prototype, some interactions were not fully functional, which may have impacted user expectations and feedback.
 - **Moderated Testing Bias:** Participants may have responded more positively in the presence of moderators, potentially reducing critical feedback.
+- **Limited participant pool:** The participant pool was limited to 6 total.
 
 Despite these limitations, the Phase III evaluation served as an effective pilot to validate the GymBuddy concept and surface usability priorities for improvement.
