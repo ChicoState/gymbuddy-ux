@@ -72,10 +72,10 @@ In Phase III, we conducted a usability evaluation of the interactive prototype t
 
 **Key insights from the evaluation included:**
 
-- **Navigation issues** when users attempted to edit their profile after onboarding, revealing the need for more accessible entry points and persistent navigation options.
-- **Button label confusion**, particularly between "Sign Up" and "Get Started," which continued to cause hesitation despite prior adjustments.
+- **Navigation issues** - when users attempted to edit their profile after onboarding, revealing the need for more accessible entry points and persistent navigation options.
+- **Button label confusion** - particularly between "Sign Up" and "Get Started," which continued to cause hesitation despite prior adjustments.
 - **Limitations of the Prototype** - There were some features that we did not quite do justice with representing and testing, like the match finder and match request processes.
-- **Positive reception** of the design and overall layout, despite some suggestions of how the flow can be made more efficient.
+- **Positive reception** - of the design and overall layout, despite some suggestions of how the flow can be made more efficient.
 
 These findings informed a set of targeted design recommendations, such as improving feedback cues after actions (e.g., confirmation after sending a match request), clarifying interface labels, and simplifying access to editable settings.
 
