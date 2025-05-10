@@ -23,7 +23,17 @@ Gym Buddy is a platform that helps gym-goers find workout partners based on thei
   - Wireframes
 <br>
   
-* **[Yash Madan](https://github.com/UsabilityEngineering/portfolio-YashMadan28)** - !!!List of Person C's primary contributions!!!
+* **[Yash Madan](https://github.com/UsabilityEngineering/portfolio-YashMadan28)** :
+  - Phase 2 outline and report,
+  - Worked with team on design artifact creation (wireframes, sketches, prototypes)
+  - Persona and scenario walkthrough
+  - Worked with team on updating the wireframes
+  - Worked with tram on Usability Test Plan
+  - Worked with team on creating the prototypes
+  - Usability Walkthroughs / User Studies
+  - Prototype Updates / Revisions
+  - Worked with team to create the User Test Protocol
+<br>
 
 # User-Centered Design Artifacts
 
