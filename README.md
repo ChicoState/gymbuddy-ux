@@ -66,8 +66,6 @@ Wireframes were updated to reflect major interaction and structural improvements
 
 **Executive Summary**
 
-## Executive Summary
-
 In Phase III, we conducted a usability evaluation of the interactive prototype to validate earlier design assumptions and identify opportunities for improvements. Through a moderated, think aloud usability test using a structured protocol we created, we observed users (participants) as they completed a series of core tasks—creating a profile, searching for partners, sending requests, and editing preferences.
 
 **Key insights from the evaluation included:**
