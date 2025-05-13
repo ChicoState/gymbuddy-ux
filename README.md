@@ -29,6 +29,7 @@ Gym Buddy is a platform that helps gym-goers find workout partners based on thei
   - Worked with team to create the User Test Protocol
   - Usability Walkthroughs / User Studies
   - Prototype Updates / Revisions
+  - Worked with team on Phase 3 report
 <br>
   
 * **[Yash Madan](https://github.com/UsabilityEngineering/portfolio-YashMadan28)** :
