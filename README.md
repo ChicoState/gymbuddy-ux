@@ -10,7 +10,7 @@ Gym Buddy is a platform that helps gym-goers find workout partners based on thei
   - Worked with team on design artifact creation (wireframes, sketches, prototypes)
   - Persona and scenario walkthrough
   - Worked with team on updating the wireframes
-  - Worked with tram on Usability Test Plan
+  - Worked with team on Usability Test Plan
   - Worked with team on creating the prototypes
   - Usability Walkthroughs / User Studies
   - Prototype Updates / Revisions
@@ -20,9 +20,13 @@ Gym Buddy is a platform that helps gym-goers find workout partners based on thei
 <br>
  
 * **[Harrison Lloyd](https://usabilityengineering.github.io/portfolio-harryalloyd/)**
-  - Personas and scenarios
-  - Initial sketches
-  - Wireframes
+  - Phase 2 outline and report
+  - Worked with team on design artifact creation (wireframes, sketches, prototypes)
+  - Persona and scenario walkthrough
+  - Worked with team on updating the wireframes
+  - Worked with tram on Usability Test Plan
+  - Worked with team to create the User Test Protocol
+  - Worked with team on Phase 3 report
 <br>
   
 * **[Yash Madan](https://github.com/UsabilityEngineering/portfolio-YashMadan28)** :
@@ -30,7 +34,7 @@ Gym Buddy is a platform that helps gym-goers find workout partners based on thei
   - Worked with team on design artifact creation (wireframes, sketches, prototypes)
   - Persona and scenario walkthrough
   - Worked with team on updating the wireframes
-  - Worked with tram on Usability Test Plan
+  - Worked with team on Usability Test Plan
   - Worked with team on creating the prototypes
   - Usability Walkthroughs / User Studies
   - Prototype Updates / Revisions
