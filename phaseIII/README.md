@@ -21,7 +21,7 @@ The usability test consisted of the following four tasks:
 
 2. **Search for a Gym Partner**
    - *Goal:* Determine if users can use filters and navigate search results effectively.
-   - *_UX Component Evaluated:* Efficiency and discoverability.
+   - *UX Component Evaluated:* Efficiency and discoverability.
 
 3. **Send a Match Request**
    - *Goal:* Evaluate clarity and confidence around initiating contact with a match.
