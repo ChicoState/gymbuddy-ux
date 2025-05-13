@@ -9,7 +9,7 @@ This final phase of the project focused on conducting a structured usability eva
 ## Methods
 
 ### Study Approach
-We conducted a formative usability study with a moderated, think-aloud [protocol](https://github.com/ChicoState/gymbuddy-ux/blob/main/pdfs/TestProtocol.pdf). This approach allowed us to observe real-time user interactions and collect deeper insights into participants’ mental models, expectations, and challenges. Participants were guided through a series of tasks in the GymBuddy prototype while verbalizing their thought process. Observations were recorded via notes and a standardized feedback form.
+We conducted a formative usability study with a moderated, think-aloud [protocol](https://github.com/ChicoState/gymbuddy-ux/blob/main/pdfs/TestProtocol.pdf). Before any testing began, each participant reviewed and signed an [Informed Consent Form](https://github.com/ChicoState/gymbuddy-ux/blob/main/pdfs/InformedConsentForm.pdf). This approach allowed us to observe real-time user interactions and collect deeper insights into participants’ mental models, expectations, and challenges. Participants were guided through a series of tasks in the GymBuddy prototype while verbalizing their thought process. Observations were recorded via notes and a standardized feedback form.
 
 ### Test Protocol & Tasks
 
